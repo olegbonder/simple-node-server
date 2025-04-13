@@ -29,6 +29,7 @@ const server = http.createServer((req, res) => {
     <body>
       <h1>Добро пожаловать на мой сервер!</h1>
       <p>Это простейший сервер на Node.js</p>
+      <p>test</p>
     </body>
     </html>
   `);
